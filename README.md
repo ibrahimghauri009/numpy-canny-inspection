@@ -66,3 +66,7 @@ The task 1 convolution figure is produced by the notebook.
 - Classical edges fail under strong illumination gradients and on textured backgrounds; the failure-case figure shows both.
 
 > **Context.** Assignment 1 of CS4059 Fundamentals of Computer Vision, FAST-NUCES (Fall 2026).
+
+## Licence
+
+MIT; see `LICENSE`. The PCB and concrete crack datasets are subject to their providers' terms.
